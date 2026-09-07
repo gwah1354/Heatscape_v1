@@ -1,0 +1,6 @@
+{
+  "name": "HeatScape",
+  "description": "Mobile-first civic-tech platform for Tamil Nadu cities to identify urban heat-risk, plan cooling interventions, and track progress.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
